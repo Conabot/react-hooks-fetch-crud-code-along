@@ -28,13 +28,13 @@
       "id": 5,
       "name": "Swiss Cheese",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "name": "coffee black",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 6
     }
   ]
 }
